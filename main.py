@@ -23,4 +23,4 @@ file2.write(str(kucuk))
 file1.close()
 file2.close()
 
-print("4:01")
+print("4:03")
