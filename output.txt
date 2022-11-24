@@ -1,0 +1,1 @@
+ortalama: 3.0 en buyuk sayi: 5 en kucuk sayi: 1
